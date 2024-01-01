@@ -1,0 +1,3 @@
+Moodles_FR = {
+    Moodles_Antidepressants_Bad_desc_lvl1 = "Le médicament a besoin d'un certain temps pour faire effet",
+}
